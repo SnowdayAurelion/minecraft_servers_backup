@@ -1,0 +1,11 @@
+# Ignore massive log files
+*.log
+logs/
+
+# Ignore temporary session locks
+session.lock
+
+# Ignore crash reports
+crash-reports/
+# Ignore server and plugin JARs
+*.jar
