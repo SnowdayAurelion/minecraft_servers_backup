@@ -1,315 +1,4 @@
-[20:46:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[20:46:27] [ServerMain/INFO]: Loaded 1461 recipes
-[20:46:27] [ServerMain/INFO]: Loaded 1574 advancements
-[20:46:27] [Server thread/INFO]: Starting minecraft server version 1.21.10
-[20:46:27] [Server thread/INFO]: Loading properties
-[20:46:27] [Server thread/INFO]: Default game type: CREATIVE
-[20:46:27] [Server thread/INFO]: Generating keypair
-[20:46:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:46:28] [Server thread/INFO]: Using epoll channel type
-[20:46:28] [Server thread/INFO]: Preparing level "world"
-[20:46:29] [Server thread/INFO]: Loading 0 persistent chunks...
-[20:46:29] [Server thread/INFO]: Preparing spawn area: 100%
-[20:46:29] [Server thread/INFO]: Time elapsed: 17 ms
-[20:46:29] [Server thread/INFO]: Done (0.796s)! For help, type "help"
-[20:47:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:51:51] [User Authenticator #1/INFO]: UUID of player Snowday_Aurelion is 6c8ac68b-16fc-458f-a11d-06993e2d2f31
-[20:51:55] [Server thread/INFO]: Snowday_Aurelion[/185.213.80.181:55338] logged in with entity id 79 at (-243.38390880811855, -38.0, -59.69999998807907)
-[20:51:56] [Server thread/INFO]: Snowday_Aurelion joined the game
-[20:51:57] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:57] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
-[20:51:57] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:57] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:58] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:51:59] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:00] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:00] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:00] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:00] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:00] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:00] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:01] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:02] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:03] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:04] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:05] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:06] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:07] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:08] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:09] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:10] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-259, y=14, z=-192} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:11] [Server thread/ERROR]: Trial Spawner at ja{x=-259, y=14, z=-192} has no detected players
-[20:52:12] [Server thread/ERROR]: Trial Spawner at ja{x=-232, y=-22, z=-43} has no detected players
-[20:52:12] [Server thread/ERROR]: Trial Spawner at ja{x=-230, y=-23, z=-45} has no detected players
-[20:52:12] [Server thread/ERROR]: Trial Spawner at ja{x=-262, y=15, z=-129} has no detected players
-[20:52:12] [Server thread/ERROR]: Trial Spawner at ja{x=-247, y=28, z=-158} has no detected players
-[20:52:12] [Server thread/ERROR]: Trial Spawner at ja{x=-259, y=14, z=-192} has no detected players
-[20:52:12] [Server thread/INFO]: Snowday_Aurelion lost connection: Disconnected
-[20:52:12] [Server thread/INFO]: Snowday_Aurelion left the game
-[20:53:02] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:49:23] [Netty Epoll Server IO #4/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[01:13:12] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
 	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
@@ -348,7 +37,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:49:32] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[01:23:30] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
 	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
@@ -387,7 +76,7 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:55:33] [Netty Epoll Server IO #4/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[01:23:37] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
 	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
@@ -426,7 +115,397 @@ io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/min
 	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-[21:55:35] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
+[02:50:19] [Netty Epoll Server IO #0/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:50:21] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:24:41] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:24:42] [Netty Epoll Server IO #2/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[04:57:56] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[05:16:00] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:39:34] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[06:49:23] [Netty Epoll Server IO #1/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[08:23:39] [Netty Epoll Server IO #7/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[08:36:40] [Netty Epoll Server IO #3/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
+	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
+	at wz.a(SourceFile:26) ~[server-1.21.10.jar:?]
+	at wz.encode(SourceFile:12) ~[server-1.21.10.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk$2.write(SourceFile:524) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at wk.c(SourceFile:350) ~[server-1.21.10.jar:?]
+	at wk.b(SourceFile:342) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:324) ~[server-1.21.10.jar:?]
+	at wk.a(SourceFile:318) ~[server-1.21.10.jar:?]
+	at wk.exceptionCaught(SourceFile:169) ~[server-1.21.10.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.handleReadException(AbstractEpollStreamChannel.java:727) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:825) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:501) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[netty-transport-classes-epoll-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:4.1.118.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[08:36:46] [Netty Epoll Server IO #5/ERROR]: Error sending packet clientbound/minecraft:disconnect
 io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
 	at aad.a(SourceFile:50) ~[server-1.21.10.jar:?]
 	at aad.encode(SourceFile:14) ~[server-1.21.10.jar:?]
