@@ -3966,27 +3966,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_exposed_copper_bulb": "2026-03-23 22:05:53 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2026-03-23 22:00:42 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2026-03-23 21:55:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_bulb_from_honeycomb": {
-    "criteria": {
-      "has_copper_bulb": "2026-03-23 22:05:51 -0400"
     },
     "done": true
   },
@@ -4002,15 +3984,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_lantern_from_honeycomb": {
-    "criteria": {
-      "has_copper_lantern": "2026-03-23 22:05:59 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2026-03-23 21:55:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2026-03-23 22:00:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_copper_bulb": "2026-03-23 22:05:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper_bulb": "2026-03-23 22:05:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_lantern_from_honeycomb": {
+    "criteria": {
+      "has_copper_lantern": "2026-03-23 22:05:59 -0400"
     },
     "done": true
   },
