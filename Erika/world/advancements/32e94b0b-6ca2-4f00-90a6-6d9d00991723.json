@@ -1072,6 +1072,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2026-04-14 21:16:49 -0400",
       "minecraft:ocelot": "2025-11-08 19:23:16 -0500",
       "minecraft:panda": "2025-12-27 12:51:44 -0500",
       "minecraft:rabbit": "2025-12-26 15:12:22 -0500"
@@ -5494,21 +5495,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+  "minecraft:nether/netherite_armor": {
     "criteria": {
-      "has_prismarine": "2026-04-13 16:21:26 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2026-04-13 16:21:41 -0400"
+      "netherite_armor": "2026-04-13 15:28:03 -0400"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2026-04-13 16:21:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2026-04-13 16:21:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2026-04-13 16:21:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2026-04-13 16:21:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2026-04-13 16:21:26 -0400"
     },
     "done": true
   },
@@ -5524,39 +5543,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2026-04-13 16:21:23 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_dark_prismarine": "2026-04-13 16:21:41 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2026-04-13 16:21:26 -0400"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2026-04-13 15:28:03 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2026-04-13 16:21:41 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
-    "criteria": {
-      "has_prismarine_brick": "2026-04-13 16:21:23 -0400"
     },
     "done": true
   },
@@ -5566,23 +5555,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2026-04-13 16:21:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2026-04-13 16:21:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2026-04-13 16:21:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-04-13 16:21:41 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2026-04-13 16:21:41 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_lantern_from_honeycomb": {
     "criteria": {
-      "has_prismarine_bricks": "2026-04-13 16:21:23 -0400"
+      "has_oxidized_copper_lantern": "2026-04-14 20:50:12 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_slab": {
+  "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "has_prismarine": "2026-04-13 16:21:26 -0400"
+      "minecraft:calico": "2026-04-14 21:16:29 -0400",
+      "minecraft:red": "2026-04-14 21:16:26 -0400"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 4556
 }
