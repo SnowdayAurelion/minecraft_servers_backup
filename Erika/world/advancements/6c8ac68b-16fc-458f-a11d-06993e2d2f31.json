@@ -4346,5 +4346,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-04-15 21:43:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2026-04-15 21:36:45 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
