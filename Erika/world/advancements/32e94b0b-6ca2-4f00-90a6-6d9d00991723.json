@@ -5598,5 +5598,17 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2026-04-17 15:21:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2026-04-17 15:21:33 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
