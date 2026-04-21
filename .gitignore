@@ -9,3 +9,8 @@ session.lock
 crash-reports/
 # Ignore server and plugin JARs
 *.jar
+
+# Fabric & Modded specific
+libraries/
+.fabric/
+cache/
