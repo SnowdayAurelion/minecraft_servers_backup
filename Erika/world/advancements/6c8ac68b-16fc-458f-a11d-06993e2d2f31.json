@@ -4358,21 +4358,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2026-04-20 22:28:48 -0400"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/whole_pack": {
-    "criteria": {
-      "minecraft:pale": "2026-04-20 22:31:56 -0400"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2026-04-20 22:15:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2026-04-20 22:28:48 -0400"
     },
     "done": true
   },
@@ -4387,6 +4381,12 @@
       "has_mutton": "2026-04-20 22:28:48 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2026-04-20 22:31:56 -0400"
+    },
+    "done": false
   },
   "DataVersion": 4556
 }

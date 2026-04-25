@@ -3095,33 +3095,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2026-04-24 00:17:23 -0400"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/birch_planks": {
     "criteria": {
       "has_planks": "2026-04-23 23:51:17 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2026-04-24 00:31:13 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2026-04-24 00:17:23 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2026-04-24 00:40:50 -0400"
     },
     "done": true
   },
@@ -3131,21 +3107,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/warped": {
-    "criteria": {
-      "has_wood": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/birch_rail_bridge": {
     "criteria": {
       "has_planks": "2026-04-23 23:51:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2026-04-24 00:40:50 -0400"
     },
     "done": true
   },
@@ -3161,51 +3125,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/warped/warped_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2026-04-24 00:17:23 -0400"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2026-04-24 00:12:41 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2026-04-23 23:51:17 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/warped_bridge_pier": {
-    "criteria": {
-      "has_planks": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2026-04-24 00:26:11 -0400"
     },
     "done": true
   },
@@ -3215,33 +3137,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2026-04-24 00:13:41 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_whispering_trapdoor": {
-    "criteria": {
-      "has_stems": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/birch/birch_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2026-04-23 23:51:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2026-04-23 23:52:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2026-04-23 23:54:17 -0400"
     },
     "done": true
   },
@@ -3251,15 +3149,45 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/warped/warped_barrel_trapdoor": {
+  "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
-      "has_logs": "2026-04-23 23:54:17 -0400"
+      "has_planks": "2026-04-23 23:51:17 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
-      "has_leather": "2026-04-24 00:17:23 -0400"
+      "has_planks": "2026-04-23 23:51:17 -0400"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/birch": {
+    "criteria": {
+      "has_wood": "2026-04-23 23:51:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-04-23 23:51:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-04-23 23:51:17 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2026-04-23 23:51:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-04-23 23:52:21 -0400"
     },
     "done": true
   },
@@ -3269,39 +3197,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/saddle": {
-    "criteria": {
-      "has_leather": "2026-04-24 00:17:23 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "kelp": "2026-04-24 00:43:46 -0400"
-    },
-    "done": false
-  },
-  "mcwroofs:recipes/warped": {
-    "criteria": {
-      "has_planks": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2026-04-23 23:52:21 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_mystic": {
-    "criteria": {
-      "has_logs": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2026-04-23 23:51:17 -0400"
     },
     "done": true
   },
@@ -3317,9 +3215,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_kelp": "2026-04-24 00:40:50 -0400"
+      "has_quartz": "2026-04-23 23:52:21 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2026-04-23 23:52:21 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/warped": {
+    "criteria": {
+      "has_wood": "2026-04-23 23:54:17 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-04-23 23:54:17 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-04-23 23:54:17 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-04-23 23:54:17 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-04-23 23:54:17 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_whispering_trapdoor": {
+    "criteria": {
+      "has_stems": "2026-04-23 23:54:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2026-04-23 23:54:17 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-04-23 23:54:17 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped": {
+    "criteria": {
+      "has_planks": "2026-04-23 23:54:17 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_mystic": {
+    "criteria": {
+      "has_logs": "2026-04-23 23:54:17 -0400"
     },
     "done": true
   },
@@ -3335,24 +3299,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2026-04-23 23:52:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2026-04-24 00:17:23 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/birch_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2026-04-23 23:51:17 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/warped_bark_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-23 23:54:17 -0400"
@@ -3365,33 +3311,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/quartz": {
-    "criteria": {
-      "has_wood": "2026-04-23 23:52:21 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2026-04-24 00:17:23 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/warped/warped_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2026-04-24 00:17:23 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2026-04-24 00:17:23 -0400"
     },
     "done": true
   },
@@ -3407,27 +3329,9 @@
     },
     "done": true
   },
-  "mcwpaths:recipes/birch": {
-    "criteria": {
-      "has_wood": "2026-04-23 23:51:17 -0400"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/warped": {
     "criteria": {
       "has_wood": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-04-23 23:51:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2026-04-24 00:13:41 -0400"
     },
     "done": true
   },
@@ -3437,21 +3341,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2026-04-24 00:26:11 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/warped/warped_barred_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2026-04-23 23:55:20 -0400"
     },
     "done": true
   },
@@ -3467,39 +3359,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2026-04-24 00:17:23 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-04-23 23:51:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2026-04-23 23:55:20 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-23 23:54:17 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_birch_bridge": {
-    "criteria": {
-      "has_planks": "2026-04-23 23:51:17 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2026-04-23 23:56:57 -0400"
     },
     "done": true
   },
@@ -3509,21 +3371,195 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2026-04-24 00:17:23 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2026-04-23 23:54:58 -0400"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2026-04-23 23:55:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2026-04-23 23:55:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-04-23 23:56:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-04-24 00:12:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-04-24 00:13:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-04-24 00:13:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2026-04-24 00:17:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2026-04-24 00:26:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2026-04-24 00:26:11 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2026-04-24 00:31:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-04-24 00:40:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-04-24 00:40:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-04-24 00:40:50 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2026-04-24 00:43:46 -0400"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-04-24 23:33:50 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-04-24 23:33:50 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2026-04-24 23:33:50 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2026-04-24 23:33:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-04-24 23:33:50 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-04-24 23:33:50 -0400"
     },
     "done": true
   },
