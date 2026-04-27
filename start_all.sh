@@ -8,7 +8,7 @@ tmux send-keys -t erika "cd '/home/alex/Documents/MinecraftServers/Erika' && jav
 # --- START SERVER: MAIN MODDED FOREVER ---
 # Creating a session named 'forever'
 tmux new-session -d -s forever
-tmux send-keys -t forever "cd '/home/alex/Documents/MinecraftServers/Main modded forever' && java -Xms2G -Xmx3G -jar fabric-server-mc.26.1.2-loader.0.19.2-launcher.1.1.1.jar nogui" C-m
+tmux send-keys -t forever "cd '/home/alex/Documents/MinecraftServers/Main modded forever' && java -Xms3G -Xmx4G -jar fabric-server-mc.26.1.2-loader.0.19.2-launcher.1.1.1.jar nogui" C-m
 
 echo "------------------------------------------------------"
 echo "Minecraft Servers are launching in separate sessions!"
