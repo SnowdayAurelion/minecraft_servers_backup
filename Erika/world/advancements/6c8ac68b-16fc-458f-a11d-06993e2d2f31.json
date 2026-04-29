@@ -1677,10 +1677,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2026-01-01 20:54:54 -0500",
+      "minecraft:pillager": "2026-04-28 16:48:50 -0400",
       "minecraft:skeleton": "2025-11-15 14:16:00 -0500",
-      "minecraft:enderman": "2025-11-15 14:28:03 -0500",
+      "minecraft:zombified_piglin": "2026-04-28 16:45:11 -0400",
       "minecraft:witch": "2025-12-20 00:14:12 -0500",
+      "minecraft:piglin": "2026-04-28 16:53:43 -0400",
+      "minecraft:enderman": "2025-11-15 14:28:03 -0500",
       "minecraft:spider": "2025-11-07 21:48:31 -0500",
+      "minecraft:piglin_brute": "2026-04-28 16:47:42 -0400",
       "minecraft:zombie": "2025-11-15 14:08:02 -0500",
       "minecraft:creeper": "2025-11-15 14:15:13 -0500",
       "minecraft:zombie_villager": "2025-11-15 14:20:03 -0500",
@@ -4409,6 +4413,36 @@
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_slime_block": "2026-04-27 22:55:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2026-04-28 16:41:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-04-28 16:43:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-04-28 16:46:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-04-28 16:46:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-04-28 16:48:54 -0400"
     },
     "done": true
   },
