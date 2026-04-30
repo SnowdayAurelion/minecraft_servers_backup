@@ -557,9 +557,12 @@
       "minecraft:skeleton": "2026-04-17 13:53:40 -0400",
       "minecraft:phantom": "2026-04-18 22:17:42 -0400",
       "minecraft:zombified_piglin": "2026-04-24 00:20:09 -0400",
+      "minecraft:husk": "2026-04-29 11:50:31 -0400",
       "minecraft:piglin": "2026-04-23 20:51:21 -0400",
       "minecraft:zombie_horse": "2026-04-28 21:56:00 -0400",
+      "minecraft:breeze": "2026-04-29 11:50:36 -0400",
       "minecraft:enderman": "2026-04-17 16:08:36 -0400",
+      "minecraft:silverfish": "2026-04-29 12:14:35 -0400",
       "minecraft:spider": "2026-04-17 14:32:49 -0400",
       "minecraft:zombie": "2026-04-17 13:49:09 -0400",
       "minecraft:creeper": "2026-04-17 17:24:48 -0400",
@@ -590,17 +593,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2026-04-17 13:58:29 -0400",
-      "apple": "2026-04-17 17:19:20 -0400",
       "bread": "2026-04-17 21:00:12 -0400",
       "golden_apple": "2026-04-23 14:35:49 -0400",
-      "cooked_chicken": "2026-04-17 14:07:19 -0400",
       "rotten_flesh": "2026-04-19 09:12:26 -0400",
       "cooked_mutton": "2026-04-17 13:51:27 -0400",
       "salmon": "2026-04-19 06:21:23 -0400",
       "cooked_beef": "2026-04-17 21:38:50 -0400",
-      "cod": "2026-04-17 14:44:05 -0400",
+      "beef": "2026-04-29 10:56:11 -0400",
       "melon_slice": "2026-04-17 19:26:11 -0400",
-      "tropical_fish": "2026-04-17 14:07:03 -0400"
+      "tropical_fish": "2026-04-17 14:07:03 -0400",
+      "apple": "2026-04-17 17:19:20 -0400",
+      "cooked_chicken": "2026-04-17 14:07:19 -0400",
+      "cod": "2026-04-17 14:44:05 -0400"
     },
     "done": false
   },
@@ -637,29 +641,30 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2026-04-17 14:39:17 -0400",
-      "minecraft:beach": "2026-04-17 14:56:41 -0400",
       "minecraft:old_growth_pine_taiga": "2026-04-21 21:51:35 -0400",
-      "minecraft:dark_forest": "2026-04-21 21:53:46 -0400",
       "minecraft:mushroom_fields": "2026-04-17 14:47:07 -0400",
       "minecraft:forest": "2026-04-17 14:26:48 -0400",
-      "minecraft:mangrove_swamp": "2026-04-21 16:24:21 -0400",
       "minecraft:deep_ocean": "2026-04-17 14:52:46 -0400",
-      "minecraft:river": "2026-04-17 14:38:38 -0400",
-      "minecraft:lukewarm_ocean": "2026-04-17 14:55:51 -0400",
       "minecraft:lush_caves": "2026-04-17 13:56:47 -0400",
       "minecraft:deep_cold_ocean": "2026-04-17 14:39:30 -0400",
-      "minecraft:old_growth_birch_forest": "2026-04-17 14:21:10 -0400",
       "minecraft:frozen_ocean": "2026-04-17 14:41:02 -0400",
       "minecraft:deep_frozen_ocean": "2026-04-17 14:44:09 -0400",
       "minecraft:ocean": "2026-04-17 14:54:46 -0400",
       "minecraft:jungle": "2026-04-17 15:51:34 -0400",
+      "minecraft:old_growth_spruce_taiga": "2026-04-21 21:51:29 -0400",
+      "minecraft:windswept_savanna": "2026-04-17 19:22:31 -0400",
+      "minecraft:deep_lukewarm_ocean": "2026-04-17 14:55:10 -0400",
+      "minecraft:beach": "2026-04-17 14:56:41 -0400",
+      "minecraft:dark_forest": "2026-04-21 21:53:46 -0400",
+      "minecraft:mangrove_swamp": "2026-04-21 16:24:21 -0400",
+      "minecraft:sparse_jungle": "2026-04-29 11:37:30 -0400",
+      "minecraft:river": "2026-04-17 14:38:38 -0400",
+      "minecraft:lukewarm_ocean": "2026-04-17 14:55:51 -0400",
+      "minecraft:old_growth_birch_forest": "2026-04-17 14:21:10 -0400",
       "minecraft:grove": "2026-04-17 14:41:48 -0400",
       "minecraft:swamp": "2026-04-21 21:54:21 -0400",
-      "minecraft:old_growth_spruce_taiga": "2026-04-21 21:51:29 -0400",
       "minecraft:savanna": "2026-04-17 14:56:34 -0400",
-      "minecraft:windswept_savanna": "2026-04-17 19:22:31 -0400",
-      "minecraft:plains": "2026-04-21 21:47:34 -0400",
-      "minecraft:deep_lukewarm_ocean": "2026-04-17 14:55:10 -0400"
+      "minecraft:plains": "2026-04-21 21:47:34 -0400"
     },
     "done": false
   },
@@ -5191,6 +5196,264 @@
   "mcwpaths:recipes/sandstone": {
     "criteria": {
       "has_wood": "2026-04-28 21:56:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2026-04-29 11:39:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2026-04-29 11:46:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-04-29 11:50:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-04-29 11:50:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-04-29 11:50:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-04-29 11:50:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-04-29 11:50:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-04-29 11:50:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-04-29 11:50:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-04-29 11:50:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2026-04-29 11:50:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2026-04-29 11:51:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2026-04-29 11:51:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-04-29 12:01:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-04-29 12:08:29 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2026-04-29 12:20:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2026-04-29 12:20:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2026-04-29 12:21:04 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-04-29 12:21:31 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2026-04-29 12:21:31 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2026-04-29 12:21:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2026-04-29 12:24:51 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2026-04-29 12:24:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2026-04-29 12:24:51 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/bricks": {
+    "criteria": {
+      "has_wood": "2026-04-29 12:24:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2026-04-29 12:24:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2026-04-29 12:29:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2026-04-29 12:29:32 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2026-04-29 12:37:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2026-04-29 12:37:34 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/single_potion": {
+    "criteria": {
+      "has_planks": "2026-04-29 12:40:26 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_potions": {
+    "criteria": {
+      "has_planks": "2026-04-29 12:40:26 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pair_of_potions": {
+    "criteria": {
+      "has_planks": "2026-04-29 12:40:26 -0400"
+    },
+    "done": true
+  },
+  "bound:visible/bound": {
+    "criteria": {
+      "requirement": "2026-04-29 12:44:27 -0400"
+    },
+    "done": true
+  },
+  "bound:bound3book": {
+    "criteria": {
+      "requirement": "2026-04-29 12:44:27 -0400"
+    },
+    "done": true
+  },
+  "bound:visible/bound3": {
+    "criteria": {
+      "requirement": "2026-04-29 12:44:27 -0400"
+    },
+    "done": true
+  },
+  "bound:bound3item": {
+    "criteria": {
+      "requirement": "2026-04-29 12:51:26 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-04-29 13:44:26 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-04-29 13:44:26 -0400"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2026-04-29 13:44:26 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2026-04-29 13:44:26 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2026-04-29 13:44:26 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2026-04-29 13:44:26 -0400"
     },
     "done": true
   },
