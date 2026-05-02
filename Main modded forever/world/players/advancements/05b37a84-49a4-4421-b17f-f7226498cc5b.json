@@ -556,8 +556,11 @@
       "minecraft:pillager": "2026-04-24 00:23:57 -0400",
       "minecraft:skeleton": "2026-04-17 13:53:40 -0400",
       "minecraft:phantom": "2026-04-18 22:17:42 -0400",
+      "minecraft:parched": "2026-05-01 16:52:19 -0400",
       "minecraft:zombified_piglin": "2026-04-24 00:20:09 -0400",
       "minecraft:husk": "2026-04-29 11:50:31 -0400",
+      "minecraft:bogged": "2026-05-01 22:50:28 -0400",
+      "minecraft:camel_husk": "2026-05-01 16:53:14 -0400",
       "minecraft:cave_spider": "2026-04-30 12:13:56 -0400",
       "minecraft:piglin": "2026-04-23 20:51:21 -0400",
       "minecraft:zombie_horse": "2026-04-28 21:56:00 -0400",
@@ -6068,6 +6071,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2026-04-30 21:22:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2026-04-30 21:22:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2026-04-30 21:22:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2026-04-30 21:22:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2026-04-30 21:22:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2026-04-30 21:22:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crafter": {
+    "criteria": {
+      "has_dropper": "2026-04-30 21:37:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2026-04-30 21:40:39 -0400"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-30 22:39:37 -0400"
@@ -6077,12 +6128,6 @@
   "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-30 22:39:37 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crafter": {
-    "criteria": {
-      "has_dropper": "2026-04-30 21:37:56 -0400"
     },
     "done": true
   },
@@ -6116,24 +6161,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_shelf": {
-    "criteria": {
-      "has_stripped_spruce_log": "2026-04-30 22:50:14 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
-    "criteria": {
-      "has_log": "2026-04-30 23:02:34 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2026-04-30 23:06:20 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-30 22:39:37 -0400"
@@ -6146,27 +6173,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2026-04-30 21:22:38 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-30 22:39:37 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-04-30 22:50:14 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2026-04-30 21:22:38 -0400"
     },
     "done": true
   },
@@ -6176,69 +6185,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2026-04-30 21:40:39 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-30 22:39:37 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2026-04-30 21:22:38 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2026-04-30 21:22:38 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2026-04-30 22:50:14 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2026-04-30 21:22:38 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2026-04-30 23:06:20 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/print_tropical": {
     "criteria": {
       "has_logs": "2026-04-30 22:39:37 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_shelf": {
-    "criteria": {
-      "has_stripped_dark_oak_log": "2026-04-30 23:02:34 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2026-04-30 21:22:38 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2026-04-30 23:53:48 -0400"
     },
     "done": true
   },
@@ -6272,18 +6227,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-04-30 23:02:34 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2026-04-30 23:53:48 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-30 22:39:37 -0400"
@@ -6293,6 +6236,384 @@
   "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2026-04-30 22:39:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_shelf": {
+    "criteria": {
+      "has_stripped_spruce_log": "2026-04-30 22:50:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-04-30 22:50:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2026-04-30 22:50:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2026-04-30 23:02:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_shelf": {
+    "criteria": {
+      "has_stripped_dark_oak_log": "2026-04-30 23:02:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-04-30 23:02:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-04-30 23:06:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-04-30 23:06:20 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2026-04-30 23:53:48 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2026-04-30 23:53:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2026-05-01 06:03:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2026-05-01 14:46:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-01 15:41:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-01 15:41:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-01 15:41:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_yellow_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-05-01 15:41:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-01 15:41:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-01 15:41:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2026-05-01 15:41:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2026-05-01 16:56:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-01 16:56:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2026-05-01 22:10:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2026-05-01 22:10:17 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_doormat": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:39:12 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_doormat": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:39:12 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pumpkin_doormat": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:39:12 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/black_balloon": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:39:12 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_sleeping": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:39:12 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/spider_balloon": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:39:12 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/bat_awake": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:39:12 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/granite": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/granite": {
+    "criteria": {
+      "has_wood": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2026-05-01 22:48:21 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2026-05-02 00:47:31 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-02 00:47:31 -0400"
     },
     "done": true
   },
