@@ -556,27 +556,28 @@
       "minecraft:pillager": "2026-04-24 00:23:57 -0400",
       "minecraft:blaze": "2026-05-04 22:27:59 -0400",
       "minecraft:skeleton": "2026-04-17 13:53:40 -0400",
-      "minecraft:phantom": "2026-04-18 22:17:42 -0400",
       "minecraft:parched": "2026-05-01 16:52:19 -0400",
+      "minecraft:bogged": "2026-05-01 22:50:28 -0400",
+      "minecraft:ghast": "2026-05-05 16:35:04 -0400",
+      "minecraft:camel_husk": "2026-05-01 16:53:14 -0400",
+      "minecraft:zombie_horse": "2026-04-28 21:56:00 -0400",
+      "minecraft:breeze": "2026-04-29 11:50:36 -0400",
+      "minecraft:magma_cube": "2026-05-04 22:20:21 -0400",
+      "minecraft:spider": "2026-04-17 14:32:49 -0400",
+      "minecraft:creeper": "2026-04-17 17:24:48 -0400",
+      "minecraft:slime": "2026-04-19 18:07:18 -0400",
+      "minecraft:phantom": "2026-04-18 22:17:42 -0400",
       "minecraft:zombified_piglin": "2026-04-24 00:20:09 -0400",
       "minecraft:wither_skeleton": "2026-05-04 22:22:34 -0400",
       "minecraft:husk": "2026-04-29 11:50:31 -0400",
-      "minecraft:bogged": "2026-05-01 22:50:28 -0400",
-      "minecraft:camel_husk": "2026-05-01 16:53:14 -0400",
       "minecraft:cave_spider": "2026-04-30 12:13:56 -0400",
       "minecraft:piglin": "2026-04-23 20:51:21 -0400",
-      "minecraft:zombie_horse": "2026-04-28 21:56:00 -0400",
-      "minecraft:breeze": "2026-04-29 11:50:36 -0400",
       "minecraft:enderman": "2026-04-17 16:08:36 -0400",
       "minecraft:silverfish": "2026-04-29 12:14:35 -0400",
       "minecraft:stray": "2026-04-30 11:44:49 -0400",
-      "minecraft:magma_cube": "2026-05-04 22:20:21 -0400",
-      "minecraft:spider": "2026-04-17 14:32:49 -0400",
       "minecraft:zombie": "2026-04-17 13:49:09 -0400",
-      "minecraft:creeper": "2026-04-17 17:24:48 -0400",
       "minecraft:drowned": "2026-04-18 10:44:03 -0400",
-      "minecraft:zombie_villager": "2026-04-17 20:24:51 -0400",
-      "minecraft:slime": "2026-04-19 18:07:18 -0400"
+      "minecraft:zombie_villager": "2026-04-17 20:24:51 -0400"
     },
     "done": false
   },
@@ -4183,7 +4184,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2026-04-23 20:50:11 -0400",
-      "minecraft:soul_sand_valley": "2026-04-23 20:52:00 -0400"
+      "minecraft:soul_sand_valley": "2026-04-23 20:52:00 -0400",
+      "minecraft:warped_forest": "2026-05-05 16:36:52 -0400"
     },
     "done": false
   },
@@ -6629,6 +6631,228 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2026-05-04 22:22:30 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/witch_cauldron": {
+    "criteria": {
+      "has_planks": "2026-05-05 16:26:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-05-05 16:32:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-05-05 16:32:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-05-05 16:32:34 -0400"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/nether": {
+    "criteria": {
+      "has_planks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/nether_bricks_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/nether_bricks": {
+    "criteria": {
+      "has_planks": "2026-05-05 16:32:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2026-05-05 16:41:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2026-05-05 16:41:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2026-05-05 16:41:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2026-05-05 16:41:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2026-05-05 16:41:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2026-05-05 16:50:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/quartz": {
+    "criteria": {
+      "has_planks": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2026-05-05 17:11:45 -0400"
     },
     "done": true
   },
