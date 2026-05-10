@@ -7326,13 +7326,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
-      "has_coal_block": "2026-05-09 22:37:28 -0400"
+      "has_coal_ore": "2026-05-09 22:31:49 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2026-05-09 22:31:49 -0400"
     },
@@ -7344,21 +7344,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2026-05-09 22:35:43 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/coal_from_blasting_deepslate_coal_ore": {
     "criteria": {
       "has_deepslate_coal_ore": "2026-05-09 22:31:53 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "has_coal_ore": "2026-05-09 22:31:49 -0400"
+      "has_clay_block": "2026-05-09 22:35:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-05-09 22:37:28 -0400"
     },
     "done": true
   },
