@@ -5713,5 +5713,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2026-05-14 22:33:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2026-05-14 22:33:39 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
