@@ -4777,6 +4777,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2026-05-10 10:03:30 -0400"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2026-05-10 10:05:05 -0400"
@@ -4798,12 +4804,6 @@
   "mcwholidays:recipes/carved_screaming_pumpkin": {
     "criteria": {
       "has_planks": "2026-05-10 10:05:05 -0400"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/silk_touch_nest": {
-    "criteria": {
-      "silk_touch_nest": "2026-05-10 10:03:30 -0400"
     },
     "done": true
   },
