@@ -492,12 +492,14 @@
       "minecraft:skeleton": "2026-04-17 13:50:14 -0400",
       "minecraft:phantom": "2026-04-26 18:34:13 -0400",
       "minecraft:parched": "2026-04-30 14:03:08 -0400",
+      "minecraft:witch": "2026-05-27 15:52:43 -0400",
       "minecraft:husk": "2026-04-26 18:23:06 -0400",
       "minecraft:bogged": "2026-05-01 22:58:31 -0400",
       "minecraft:ghast": "2026-04-26 18:41:23 -0400",
       "minecraft:camel_husk": "2026-04-30 20:58:51 -0400",
       "minecraft:cave_spider": "2026-04-30 12:14:34 -0400",
       "minecraft:breeze": "2026-04-30 12:05:17 -0400",
+      "minecraft:zombie_horse": "2026-05-27 14:30:26 -0400",
       "minecraft:enderman": "2026-04-25 18:32:14 -0400",
       "minecraft:silverfish": "2026-04-30 11:45:48 -0400",
       "minecraft:stray": "2026-04-30 11:44:48 -0400",
@@ -858,29 +860,40 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:badlands": "2026-05-09 21:26:42 -0400",
       "minecraft:cold_ocean": "2026-04-17 14:06:56 -0400",
-      "minecraft:beach": "2026-04-17 14:56:42 -0400",
+      "minecraft:old_growth_pine_taiga": "2026-05-27 16:19:49 -0400",
       "minecraft:mushroom_fields": "2026-04-17 14:47:07 -0400",
       "minecraft:forest": "2026-04-17 14:08:23 -0400",
-      "minecraft:mangrove_swamp": "2026-04-18 21:53:14 -0400",
+      "minecraft:taiga": "2026-05-27 16:13:47 -0400",
       "minecraft:deep_ocean": "2026-04-17 14:52:46 -0400",
-      "minecraft:river": "2026-04-17 14:06:34 -0400",
-      "minecraft:lukewarm_ocean": "2026-04-17 14:55:51 -0400",
       "minecraft:lush_caves": "2026-04-17 16:13:32 -0400",
       "minecraft:deep_cold_ocean": "2026-04-17 14:39:30 -0400",
       "minecraft:frozen_ocean": "2026-04-17 14:41:02 -0400",
       "minecraft:eroded_badlands": "2026-05-09 21:27:44 -0400",
       "minecraft:desert": "2026-04-26 18:21:00 -0400",
       "minecraft:deep_frozen_ocean": "2026-04-17 14:44:05 -0400",
+      "minecraft:windswept_forest": "2026-05-27 22:01:35 -0400",
       "minecraft:ocean": "2026-04-17 14:54:46 -0400",
       "minecraft:jungle": "2026-04-17 15:07:01 -0400",
+      "minecraft:birch_forest": "2026-05-27 16:01:39 -0400",
+      "minecraft:old_growth_spruce_taiga": "2026-05-27 16:01:56 -0400",
+      "minecraft:bamboo_jungle": "2026-05-27 16:35:45 -0400",
+      "minecraft:windswept_savanna": "2026-04-17 15:38:31 -0400",
+      "minecraft:warm_ocean": "2026-04-26 18:27:06 -0400",
+      "minecraft:deep_lukewarm_ocean": "2026-04-17 14:55:11 -0400",
+      "minecraft:badlands": "2026-05-09 21:26:42 -0400",
+      "minecraft:beach": "2026-04-17 14:56:42 -0400",
+      "minecraft:dark_forest": "2026-05-27 16:01:50 -0400",
+      "minecraft:mangrove_swamp": "2026-04-18 21:53:14 -0400",
+      "minecraft:sparse_jungle": "2026-05-27 16:29:23 -0400",
+      "minecraft:river": "2026-04-17 14:06:34 -0400",
+      "minecraft:lukewarm_ocean": "2026-04-17 14:55:51 -0400",
+      "minecraft:dripstone_caves": "2026-05-27 22:31:53 -0400",
+      "minecraft:old_growth_birch_forest": "2026-05-27 16:20:25 -0400",
       "minecraft:grove": "2026-04-17 14:41:37 -0400",
       "minecraft:swamp": "2026-04-18 21:53:54 -0400",
       "minecraft:savanna": "2026-04-17 14:56:34 -0400",
-      "minecraft:windswept_savanna": "2026-04-17 15:38:31 -0400",
-      "minecraft:warm_ocean": "2026-04-26 18:27:06 -0400",
-      "minecraft:deep_lukewarm_ocean": "2026-04-17 14:55:11 -0400"
+      "minecraft:plains": "2026-05-27 22:48:38 -0400"
     },
     "done": false
   },
@@ -7078,6 +7091,54 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2026-05-09 22:53:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2026-05-27 15:50:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-05-27 16:34:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2026-05-27 16:37:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-05-27 16:37:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2026-05-27 17:03:15 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2026-05-27 22:38:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2026-05-27 22:40:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2026-05-27 22:40:01 -0400"
     },
     "done": true
   },
