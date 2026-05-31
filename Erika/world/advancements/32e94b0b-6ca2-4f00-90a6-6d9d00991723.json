@@ -5725,5 +5725,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_chain_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_chain": "2026-05-29 23:27:57 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
