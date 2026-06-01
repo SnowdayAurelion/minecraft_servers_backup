@@ -7144,6 +7144,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-29 00:20:53 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2026-05-29 00:20:53 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2026-05-29 00:20:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/white_bundle": {
     "criteria": {
       "has_white_dye": "2026-05-29 00:25:32 -0400"
@@ -7153,12 +7171,6 @@
   "minecraft:recipes/decorations/dye_white_carpet": {
     "criteria": {
       "has_needed_dye": "2026-05-29 00:25:32 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2026-05-29 00:20:53 -0400"
     },
     "done": true
   },
@@ -7198,12 +7210,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2026-05-29 00:20:53 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2026-05-29 00:25:32 -0400"
@@ -7225,12 +7231,6 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2026-05-29 00:25:32 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2026-05-29 00:20:53 -0400"
     },
     "done": true
   },
