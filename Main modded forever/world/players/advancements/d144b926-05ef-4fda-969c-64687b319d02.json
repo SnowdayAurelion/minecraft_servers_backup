@@ -541,15 +541,18 @@
     "criteria": {
       "cooked_porkchop": "2026-04-17 15:42:26 -0400",
       "mutton": "2026-04-17 13:50:07 -0400",
-      "apple": "2026-04-17 14:14:24 -0400",
+      "chicken": "2026-06-17 01:27:13 -0400",
       "bread": "2026-04-17 17:20:56 -0400",
-      "cooked_chicken": "2026-04-17 15:14:48 -0400",
       "rotten_flesh": "2026-04-17 14:00:00 -0400",
       "cooked_mutton": "2026-04-17 14:33:50 -0400",
       "glow_berries": "2026-04-17 16:25:02 -0400",
       "cooked_beef": "2026-04-17 14:11:39 -0400",
       "baked_potato": "2026-05-01 22:57:02 -0400",
-      "porkchop": "2026-04-17 13:49:55 -0400"
+      "beef": "2026-06-17 01:24:05 -0400",
+      "porkchop": "2026-04-17 13:49:55 -0400",
+      "apple": "2026-04-17 14:14:24 -0400",
+      "spider_eye": "2026-06-18 02:20:09 -0400",
+      "cooked_chicken": "2026-04-17 15:14:48 -0400"
     },
     "done": false
   },
@@ -7250,6 +7253,54 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2026-06-11 01:26:43 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2026-06-17 01:25:41 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2026-06-17 01:25:41 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2026-06-17 01:25:41 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-17 01:30:21 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-17 01:30:58 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-17 01:30:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-06-17 03:45:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2026-06-18 01:45:41 -0400"
     },
     "done": true
   },
