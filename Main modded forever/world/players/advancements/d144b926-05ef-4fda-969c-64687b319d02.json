@@ -4023,7 +4023,8 @@
     "criteria": {
       "minecraft:nether_wastes": "2026-04-26 18:34:01 -0400",
       "minecraft:soul_sand_valley": "2026-04-26 19:25:27 -0400",
-      "minecraft:warped_forest": "2026-04-26 19:21:46 -0400"
+      "minecraft:warped_forest": "2026-04-26 19:21:46 -0400",
+      "minecraft:basalt_deltas": "2026-06-19 01:08:16 -0400"
     },
     "done": false
   },
@@ -7301,6 +7302,240 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2026-06-18 01:45:41 -0400"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/warped": {
+    "criteria": {
+      "has_wood": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped_planks": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_whispering_trapdoor": {
+    "criteria": {
+      "has_stems": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2026-06-19 00:31:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/warped": {
+    "criteria": {
+      "has_planks": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_mystic": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/warped": {
+    "criteria": {
+      "has_planks": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/warped_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/warped": {
+    "criteria": {
+      "has_wood": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/warped": {
+    "criteria": {
+      "has_wood": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2026-06-19 01:01:07 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-19 00:52:57 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/shroomlight_slab": {
+    "criteria": {
+      "has_wood": "2026-06-19 00:52:59 -0400"
     },
     "done": true
   },
