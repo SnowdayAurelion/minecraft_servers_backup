@@ -4932,12 +4932,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2026-06-22 00:22:24 -0400"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/balustrade_stone_bricks_bridge": {
     "criteria": {
       "has_planks": "2026-06-22 00:19:11 -0400"
@@ -4962,15 +4956,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-06-22 00:19:11 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2026-06-22 00:19:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2026-06-22 00:22:24 -0400"
     },
     "done": true
   },
-  "mcwbridges:recipes/stone_bridge_pier": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "has_planks": "2026-06-22 00:19:11 -0400"
+      "has_basalt": "2026-06-22 00:22:24 -0400"
     },
     "done": true
   },
@@ -4980,9 +4986,27 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/stone_brick_bridge": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_planks": "2026-06-22 00:19:11 -0400"
+      "has_ancient_debris": "2026-06-22 14:56:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-06-22 14:56:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-06-22 14:56:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-06-22 14:43:51 -0400"
     },
     "done": true
   },
