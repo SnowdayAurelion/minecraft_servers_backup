@@ -567,6 +567,7 @@
       "minecraft:piglin_brute": "2026-05-08 11:46:03 -0400",
       "minecraft:creeper": "2026-04-17 17:24:48 -0400",
       "minecraft:slime": "2026-04-19 18:07:18 -0400",
+      "minecraft:zombie_nautilus": "2026-06-23 04:03:58 -0400",
       "minecraft:phantom": "2026-04-18 22:17:42 -0400",
       "minecraft:zombified_piglin": "2026-04-24 00:20:09 -0400",
       "minecraft:wither_skeleton": "2026-05-04 22:22:34 -0400",
@@ -7662,6 +7663,42 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2026-06-19 00:22:24 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-23 03:42:47 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2026-06-23 03:42:47 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2026-06-23 03:42:47 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-23 03:42:47 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-23 03:42:47 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2026-06-23 03:42:47 -0400"
     },
     "done": true
   },

@@ -753,6 +753,7 @@
     "criteria": {
       "bread": "2026-06-17 01:04:19 -0400",
       "golden_apple": "2026-06-18 05:13:40 -0400",
+      "cooked_chicken": "2026-06-23 04:02:38 -0400",
       "cooked_mutton": "2026-06-19 01:12:51 -0400",
       "cooked_cod": "2026-06-18 01:26:10 -0400",
       "sweet_berries": "2026-06-16 00:12:27 -0400",
@@ -4986,6 +4987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2026-06-22 14:43:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2026-06-22 14:56:06 -0400"
@@ -5004,9 +5011,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_water_bucket": "2026-06-22 14:43:51 -0400"
+      "has_bone_meal": "2026-06-23 03:34:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2026-06-23 03:39:46 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2026-06-23 03:31:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2026-06-23 03:34:46 -0400"
     },
     "done": true
   },
