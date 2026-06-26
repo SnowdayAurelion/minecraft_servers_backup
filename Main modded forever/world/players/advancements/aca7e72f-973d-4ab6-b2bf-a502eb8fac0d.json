@@ -5011,7 +5011,19 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2026-06-23 03:31:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2026-06-23 03:34:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2026-06-23 03:34:46 -0400"
     },
@@ -5023,15 +5035,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
-      "has_spruce_trapdoor": "2026-06-23 03:31:33 -0400"
+      "has_bowl": "2026-06-26 01:42:24 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
-      "has_bone_meal": "2026-06-23 03:34:46 -0400"
+      "has_bowl": "2026-06-26 01:42:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2026-06-26 01:42:24 -0400"
     },
     "done": true
   },
