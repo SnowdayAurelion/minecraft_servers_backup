@@ -7611,5 +7611,89 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2026-07-01 08:43:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/mixed_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/orange_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/brown_oak_leaves": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/red_oak_leaves": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/yellow_oak_leaves": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/mixed_oak_leaves": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/yellow_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/red_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/brown_oak_leaves_carpet": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/orange_oak_leaves": {
+    "criteria": {
+      "has_planks": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-07-01 08:43:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2026-07-01 08:42:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-07-01 08:43:22 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }

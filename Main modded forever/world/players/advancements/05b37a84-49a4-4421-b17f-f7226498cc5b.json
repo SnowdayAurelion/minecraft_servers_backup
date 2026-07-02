@@ -7708,6 +7708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2026-06-28 02:14:55 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
     "criteria": {
       "has_wild_armor_trim_smithing_template": "2026-06-28 02:15:56 -0400"
@@ -7717,12 +7723,6 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-06-28 02:15:56 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2026-06-28 02:14:55 -0400"
     },
     "done": true
   },
