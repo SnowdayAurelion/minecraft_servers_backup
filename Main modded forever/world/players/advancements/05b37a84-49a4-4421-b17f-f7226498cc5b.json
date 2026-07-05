@@ -570,6 +570,7 @@
       "minecraft:zombie_nautilus": "2026-06-23 04:03:58 -0400",
       "minecraft:phantom": "2026-04-18 22:17:42 -0400",
       "minecraft:zombified_piglin": "2026-04-24 00:20:09 -0400",
+      "minecraft:witch": "2026-07-04 06:15:55 -0400",
       "minecraft:wither_skeleton": "2026-05-04 22:22:34 -0400",
       "minecraft:husk": "2026-04-29 11:50:31 -0400",
       "minecraft:cave_spider": "2026-04-30 12:13:56 -0400",
@@ -7723,6 +7724,132 @@
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-06-28 02:15:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/diorite_bridge": {
+    "criteria": {
+      "has_planks": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/diorite": {
+    "criteria": {
+      "has_planks": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_diorite_bridge": {
+    "criteria": {
+      "has_planks": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2026-07-04 05:15:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_helmet_dyed": {
+    "criteria": {
+      "has_leather_helmet": "2026-07-04 11:53:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-07-04 22:19:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2026-07-04 22:19:20 -0400"
     },
     "done": true
   },
