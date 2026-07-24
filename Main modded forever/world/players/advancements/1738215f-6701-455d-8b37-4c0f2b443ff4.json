@@ -1,0 +1,27 @@
+{
+  "craemon:main": {
+    "criteria": {
+      "tick": "2026-07-23 18:21:58 -0400"
+    },
+    "done": true
+  },
+  "bound:visible/root": {
+    "criteria": {
+      "tick": "2026-07-23 18:21:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-07-23 18:21:58 -0400"
+    },
+    "done": true
+  },
+  "craemon:player_head_drops": {
+    "criteria": {
+      "tick": "2026-07-23 18:21:58 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 4790
+}
