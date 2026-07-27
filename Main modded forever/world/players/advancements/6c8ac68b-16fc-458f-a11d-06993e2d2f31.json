@@ -253,6 +253,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2026-07-26 14:20:08 -0400",
       "minecraft:cold_ocean": "2026-04-21 22:22:10 -0400",
       "minecraft:snowy_slopes": "2026-04-21 12:31:54 -0400",
       "minecraft:beach": "2026-04-21 22:21:07 -0400",
@@ -268,6 +269,7 @@
       "minecraft:cherry_grove": "2026-04-21 15:52:11 -0400",
       "minecraft:old_growth_spruce_taiga": "2026-04-21 22:11:07 -0400",
       "minecraft:windswept_savanna": "2026-04-21 22:35:07 -0400",
+      "minecraft:warm_ocean": "2026-07-26 14:11:37 -0400",
       "minecraft:deep_lukewarm_ocean": "2026-04-21 22:24:32 -0400"
     },
     "done": false
@@ -3852,63 +3854,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
-      "fried_egg": "2026-06-06 23:17:03 -0400"
+      "has_any_ingredient": "2026-06-06 22:26:23 -0400"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2026-06-06 23:16:21 -0400"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/spruce": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_terracotta": {
-    "criteria": {
-      "has_terracotta": "2026-06-06 23:23:05 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2026-06-06 23:23:05 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/melon_juice": {
-    "criteria": {
-      "has_melon_slice": "2026-06-06 23:18:02 -0400"
+      "has_cabbage": "2026-06-06 22:26:23 -0400"
     },
     "done": true
   },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/spruce_bridge_pier": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2026-06-06 23:16:22 -0400"
     },
     "done": true
   },
@@ -3924,6 +3884,96 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2026-06-06 22:57:04 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_cottage": {
     "criteria": {
       "has_logs": "2026-06-06 23:12:58 -0400"
@@ -3936,39 +3986,153 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2026-06-06 23:16:21 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/pair_of_pumpkins": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
   "mcwstairs:recipes/spruce": {
     "criteria": {
       "has_planks": "2026-06-06 23:12:58 -0400"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/melon_popsicle": {
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
     "criteria": {
-      "has_melon": "2026-06-06 23:18:02 -0400"
+      "has_logs": "2026-06-06 23:12:58 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_terracotta": {
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
     "criteria": {
-      "has_terracotta": "2026-06-06 23:23:05 -0400"
+      "has_logs": "2026-06-06 23:12:58 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_terracotta": {
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
-      "has_terracotta": "2026-06-06 23:23:05 -0400"
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-06-06 23:12:58 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-06 23:16:21 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-06 23:16:21 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pair_of_pumpkins": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
     },
     "done": true
   },
@@ -3984,51 +4148,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/medium_pumpkin": {
     "criteria": {
       "has_planks": "2026-06-06 23:16:22 -0400"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2026-06-06 23:17:03 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2026-06-06 22:26:23 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
-    "criteria": {
-      "has_terracotta": "2026-06-06 23:23:05 -0400"
-    },
-    "done": true
-  },
   "mcwholidays:recipes/large_pumpkin": {
     "criteria": {
       "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
     },
     "done": true
   },
@@ -4041,6 +4169,150 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_shocked_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_pumpkins": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/small_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_screaming_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_smile_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/scarecrow": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_friendly_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_smile_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_evil_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/carved_shocked_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/lit_friendly_pumpkin": {
+    "criteria": {
+      "has_planks": "2026-06-06 23:16:22 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-06 23:16:23 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2026-06-06 23:16:23 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2026-06-06 23:17:03 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2026-06-06 23:17:03 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2026-06-06 23:17:03 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2026-06-06 23:17:13 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2026-06-06 23:18:02 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2026-06-06 23:18:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-06-06 23:23:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-06-06 23:23:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-06-06 23:23:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-06-06 23:23:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2026-06-06 23:23:05 -0400"
     },
     "done": true
   },
@@ -4068,135 +4340,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2026-06-06 23:16:23 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/lit_shocked_pumpkin": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/three_pumpkins": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2026-06-06 23:17:13 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/small_pumpkin": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/lit_screaming_pumpkin": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/carved_smile_pumpkin": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_dark_oak_bridge": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/scarecrow": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2026-06-06 23:23:05 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
     },
     "done": true
   },
@@ -4206,69 +4352,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/carved_friendly_pumpkin": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/lit_smile_pumpkin": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/lit_evil_pumpkin": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/pale_oak/pale_oak_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2026-06-06 23:23:05 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
     },
     "done": true
   },
@@ -4284,69 +4370,9 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/carved_shocked_pumpkin": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/lit_friendly_pumpkin": {
-    "criteria": {
-      "has_planks": "2026-06-06 23:16:22 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_rail_bridge": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2026-06-06 23:16:23 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2026-06-06 23:23:05 -0400"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2026-06-06 22:26:23 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
     },
     "done": true
   },
@@ -4362,27 +4388,45 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "has_logs": "2026-06-06 23:12:58 -0400"
+      "has_smooth_sandstone": "2026-07-26 14:13:29 -0400"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_plankss": "2026-06-06 22:57:04 -0400"
+      "has_item_frame": "2026-07-26 15:09:16 -0400"
     },
     "done": true
   },
-  "mcwroofs:recipes/dark_oak_planks": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
-      "has_planks": "2026-06-06 22:57:04 -0400"
+      "has_smooth_sandstone": "2026-07-26 14:13:29 -0400"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
-      "fried_egg": "2026-06-06 23:17:03 -0400"
+      "has_smooth_sandstone": "2026-07-26 14:13:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-07-26 14:13:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-07-26 14:34:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2026-07-26 14:34:19 -0400"
     },
     "done": true
   },
