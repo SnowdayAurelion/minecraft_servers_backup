@@ -1,23 +1,35 @@
 {
   "stats": {
     "minecraft:picked_up": {
-      "minecraft:sweet_berries": 12
+      "minecraft:sweet_berries": 22
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1,
+      "minecraft:zombie": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 19537,
-      "minecraft:walk_one_cm": 30003,
-      "minecraft:leave_game": 5,
-      "minecraft:damage_taken": 20,
-      "minecraft:play_time": 19537,
-      "minecraft:jump": 111,
-      "minecraft:time_since_death": 19537,
-      "minecraft:sprint_one_cm": 1625,
-      "minecraft:open_chest": 1,
-      "minecraft:fall_one_cm": 2150,
-      "minecraft:total_world_time": 19537,
-      "minecraft:fly_one_cm": 4587,
-      "minecraft:crouch_one_cm": 2012,
-      "minecraft:sneak_time": 502
+      "minecraft:time_since_rest": 4030,
+      "minecraft:walk_one_cm": 41277,
+      "minecraft:leave_game": 7,
+      "minecraft:damage_taken": 580,
+      "minecraft:play_time": 27582,
+      "minecraft:jump": 176,
+      "minecraft:time_since_death": 3768,
+      "minecraft:sprint_one_cm": 5503,
+      "minecraft:open_chest": 3,
+      "minecraft:fall_one_cm": 3575,
+      "minecraft:total_world_time": 27582,
+      "minecraft:fly_one_cm": 10142,
+      "minecraft:crouch_one_cm": 2066,
+      "minecraft:gravestones_collected": 1,
+      "minecraft:sneak_time": 520,
+      "minecraft:deaths": 2
+    },
+    "minecraft:mined": {
+      "minecraft:sweet_berry_bush": 1
+    },
+    "minecraft:used": {
+      "minecraft:sweet_berries": 3
     }
   },
   "DataVersion": 4790

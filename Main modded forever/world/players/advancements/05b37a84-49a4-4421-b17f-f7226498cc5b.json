@@ -676,6 +676,7 @@
       "minecraft:warm_ocean": "2026-04-30 11:40:29 -0400",
       "minecraft:deep_lukewarm_ocean": "2026-04-17 14:55:10 -0400",
       "minecraft:badlands": "2026-04-30 16:37:37 -0400",
+      "minecraft:savanna_plateau": "2026-07-27 17:51:24 -0400",
       "minecraft:beach": "2026-04-17 14:56:41 -0400",
       "minecraft:dark_forest": "2026-04-21 21:53:46 -0400",
       "minecraft:mangrove_swamp": "2026-04-21 16:24:21 -0400",
@@ -8126,6 +8127,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2026-07-13 03:07:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_leggings_dyed": {
+    "criteria": {
+      "has_leather_leggings": "2026-07-27 16:30:39 -0400"
     },
     "done": true
   },
