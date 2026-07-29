@@ -4394,12 +4394,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2026-07-26 15:09:16 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2026-07-26 14:13:29 -0400"
@@ -4427,6 +4421,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2026-07-26 14:34:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2026-07-26 15:09:16 -0400"
     },
     "done": true
   },
