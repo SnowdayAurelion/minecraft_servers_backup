@@ -1147,7 +1147,9 @@
       "minecraft:witch": "2026-07-27 18:48:22 -0400",
       "minecraft:wither_skeleton": "2026-07-29 01:52:38 -0400",
       "minecraft:ghast": "2026-07-28 15:09:50 -0400",
+      "minecraft:ender_dragon": "2026-07-31 21:45:52 -0400",
       "minecraft:hoglin": "2026-07-29 07:04:12 -0400",
+      "minecraft:shulker": "2026-07-31 21:54:31 -0400",
       "minecraft:cave_spider": "2026-07-27 16:45:07 -0400",
       "minecraft:piglin": "2026-07-28 15:01:25 -0400",
       "minecraft:zombie_horse": "2026-07-28 16:10:27 -0400",
@@ -1238,6 +1240,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2026-08-01 00:33:27 -0400",
       "chicken": "2026-07-27 09:40:23 -0400",
       "cooked_mutton": "2026-07-27 10:49:59 -0400",
       "sweet_berries": "2026-07-27 10:19:23 -0400",
@@ -6365,6 +6368,192 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2026-07-31 02:07:33 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ground_skeleton": {
+    "criteria": {
+      "has_planks": "2026-07-31 15:28:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2026-07-31 15:28:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2026-07-31 18:40:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2026-07-31 18:40:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2026-07-31 18:40:52 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2026-07-31 19:16:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2026-07-31 19:34:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2026-07-31 19:34:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2026-07-31 19:34:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2026-07-31 19:34:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2026-07-31 19:34:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-07-31 21:42:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2026-07-31 21:42:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2026-07-31 21:42:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2026-07-31 21:45:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2026-07-31 21:46:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2026-07-31 21:54:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2026-07-31 21:56:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-07-31 22:03:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2026-07-31 22:03:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-07-31 22:03:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-07-31 22:03:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2026-07-31 22:03:57 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/single_potion": {
+    "criteria": {
+      "has_planks": "2026-08-01 00:54:56 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/three_potions": {
+    "criteria": {
+      "has_planks": "2026-08-01 00:54:56 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/pair_of_potions": {
+    "criteria": {
+      "has_planks": "2026-08-01 00:54:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-08-01 00:56:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2026-08-01 01:05:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2026-08-01 01:05:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-08-01 01:05:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2026-08-01 01:50:57 -0400"
     },
     "done": true
   },

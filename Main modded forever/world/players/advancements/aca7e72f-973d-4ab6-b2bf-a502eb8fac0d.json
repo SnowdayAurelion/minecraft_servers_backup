@@ -5665,21 +5665,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2026-07-31 00:52:19 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2026-07-31 00:48:23 -0400"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/concrete": {
-    "criteria": {
-      "has_planks": "2026-07-31 00:52:19 -0400"
     },
     "done": true
   },
@@ -5710,6 +5698,144 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2026-07-31 00:51:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2026-07-31 00:52:19 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2026-07-31 00:52:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-08-01 00:34:51 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2026-08-01 00:35:17 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-01 00:35:17 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-01 00:35:17 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2026-08-01 00:35:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-08-01 00:45:39 -0400"
     },
     "done": true
   },
