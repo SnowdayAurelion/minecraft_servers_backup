@@ -1242,10 +1242,13 @@
     "criteria": {
       "apple": "2026-08-01 00:33:27 -0400",
       "chicken": "2026-07-27 09:40:23 -0400",
+      "bread": "2026-08-01 07:45:01 -0400",
       "cooked_mutton": "2026-07-27 10:49:59 -0400",
+      "mushroom_stew": "2026-08-01 03:55:17 -0400",
       "sweet_berries": "2026-07-27 10:19:23 -0400",
       "salmon": "2026-07-27 09:59:28 -0400",
-      "cooked_beef": "2026-07-27 16:28:47 -0400"
+      "cooked_beef": "2026-07-27 16:28:47 -0400",
+      "golden_carrot": "2026-08-01 07:58:09 -0400"
     },
     "done": false
   },
@@ -1693,6 +1696,7 @@
     "criteria": {
       "sugar_cane": "2026-07-28 04:40:21 -0400",
       "sweet_berries": "2026-07-27 10:19:23 -0400",
+      "nether_wart": "2026-08-01 23:26:30 -0400",
       "wheat": "2026-07-28 21:03:45 -0400",
       "carrot": "2026-07-30 22:13:49 -0400"
     },
@@ -6554,6 +6558,168 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2026-08-01 01:50:57 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2026-08-01 03:55:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2026-08-01 04:25:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2026-08-01 04:31:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-08-01 07:04:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-08-01 07:04:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2026-08-01 07:05:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2026-08-01 07:05:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2026-08-01 07:49:57 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2026-08-01 10:23:51 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2026-08-01 10:23:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-08-01 23:39:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2026-08-01 23:52:45 -0400"
     },
     "done": true
   },

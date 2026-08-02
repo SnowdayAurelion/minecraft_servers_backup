@@ -614,6 +614,7 @@
       "cooked_mutton": "2026-04-17 13:51:27 -0400",
       "salmon": "2026-04-19 06:21:23 -0400",
       "cooked_beef": "2026-04-17 21:38:50 -0400",
+      "chorus_fruit": "2026-08-01 22:35:00 -0400",
       "beef": "2026-04-29 10:56:11 -0400",
       "baked_potato": "2026-04-30 11:00:46 -0400",
       "melon_slice": "2026-04-17 19:26:11 -0400",
@@ -4221,6 +4222,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "chorus_flower": "2026-08-01 22:34:54 -0400",
       "sugar_cane": "2026-04-23 21:29:33 -0400",
       "wheat": "2026-04-23 22:57:27 -0400",
       "kelp": "2026-04-23 20:55:34 -0400"
@@ -8503,6 +8505,18 @@
   "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-08-01 01:08:14 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-01 08:12:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2026-08-01 22:34:57 -0400"
     },
     "done": true
   },
