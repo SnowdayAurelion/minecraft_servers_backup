@@ -557,12 +557,14 @@
       "minecraft:blaze": "2026-05-04 22:27:59 -0400",
       "minecraft:skeleton": "2026-04-17 13:53:40 -0400",
       "minecraft:parched": "2026-05-01 16:52:19 -0400",
+      "minecraft:ravager": "2026-08-03 21:05:07 -0400",
       "minecraft:bogged": "2026-05-01 22:50:28 -0400",
       "minecraft:ghast": "2026-05-05 16:35:04 -0400",
       "minecraft:hoglin": "2026-08-01 00:47:09 -0400",
       "minecraft:camel_husk": "2026-05-01 16:53:14 -0400",
       "minecraft:zombie_horse": "2026-04-28 21:56:00 -0400",
       "minecraft:breeze": "2026-04-29 11:50:36 -0400",
+      "minecraft:vindicator": "2026-08-03 21:02:18 -0400",
       "minecraft:magma_cube": "2026-05-04 22:20:21 -0400",
       "minecraft:spider": "2026-04-17 14:32:49 -0400",
       "minecraft:piglin_brute": "2026-05-08 11:46:03 -0400",
@@ -580,6 +582,7 @@
       "minecraft:enderman": "2026-04-17 16:08:36 -0400",
       "minecraft:silverfish": "2026-04-29 12:14:35 -0400",
       "minecraft:stray": "2026-04-30 11:44:49 -0400",
+      "minecraft:vex": "2026-08-03 21:12:13 -0400",
       "minecraft:zombie": "2026-04-17 13:49:09 -0400",
       "minecraft:drowned": "2026-04-18 10:44:03 -0400",
       "minecraft:zombie_villager": "2026-04-17 20:24:51 -0400"
@@ -4227,9 +4230,11 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "chorus_flower": "2026-08-01 22:34:54 -0400",
+      "cabbage": "2026-08-03 03:29:18 -0400",
       "sugar_cane": "2026-04-23 21:29:33 -0400",
       "wheat": "2026-04-23 22:57:27 -0400",
-      "kelp": "2026-04-23 20:55:34 -0400"
+      "kelp": "2026-04-23 20:55:34 -0400",
+      "cocoa": "2026-08-03 03:44:12 -0400"
     },
     "done": false
   },
@@ -8755,6 +8760,60 @@
   "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
       "has_planks": "2026-08-02 12:21:15 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-03 03:29:15 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2026-08-03 03:29:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+    "criteria": {
+      "has_cactus_flower": "2026-08-03 03:43:07 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2026-08-03 03:44:26 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2026-08-03 03:44:26 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2026-08-03 03:51:47 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2026-08-03 03:51:47 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2026-08-03 03:51:47 -0400"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2026-08-03 03:51:47 -0400"
     },
     "done": true
   },

@@ -546,6 +546,7 @@
       "chicken": "2026-06-17 01:27:13 -0400",
       "bread": "2026-04-17 17:20:56 -0400",
       "rotten_flesh": "2026-04-17 14:00:00 -0400",
+      "cookie": "2026-08-03 06:48:39 -0400",
       "cooked_mutton": "2026-04-17 14:33:50 -0400",
       "glow_berries": "2026-04-17 16:25:02 -0400",
       "sweet_berries": "2026-08-01 00:40:58 -0400",
@@ -883,15 +884,19 @@
       "minecraft:windswept_forest": "2026-05-27 22:01:35 -0400",
       "minecraft:ocean": "2026-04-17 14:54:46 -0400",
       "minecraft:jungle": "2026-04-17 15:07:01 -0400",
+      "minecraft:sunflower_plains": "2026-08-03 05:34:30 -0400",
       "minecraft:birch_forest": "2026-05-27 16:01:39 -0400",
       "minecraft:old_growth_spruce_taiga": "2026-05-27 16:01:56 -0400",
       "minecraft:bamboo_jungle": "2026-05-27 16:35:45 -0400",
+      "minecraft:wooded_badlands": "2026-08-03 05:52:53 -0400",
       "minecraft:windswept_savanna": "2026-04-17 15:38:31 -0400",
       "minecraft:warm_ocean": "2026-04-26 18:27:06 -0400",
       "minecraft:deep_lukewarm_ocean": "2026-04-17 14:55:11 -0400",
       "minecraft:badlands": "2026-05-09 21:26:42 -0400",
+      "minecraft:savanna_plateau": "2026-08-03 04:40:39 -0400",
       "minecraft:beach": "2026-04-17 14:56:42 -0400",
       "minecraft:dark_forest": "2026-05-27 16:01:50 -0400",
+      "minecraft:stony_peaks": "2026-08-03 05:36:02 -0400",
       "minecraft:mangrove_swamp": "2026-04-18 21:53:14 -0400",
       "minecraft:sparse_jungle": "2026-05-27 16:29:23 -0400",
       "minecraft:river": "2026-04-17 14:06:34 -0400",
@@ -901,7 +906,8 @@
       "minecraft:grove": "2026-04-17 14:41:37 -0400",
       "minecraft:swamp": "2026-04-18 21:53:54 -0400",
       "minecraft:savanna": "2026-04-17 14:56:34 -0400",
-      "minecraft:plains": "2026-05-27 22:48:38 -0400"
+      "minecraft:plains": "2026-05-27 22:48:38 -0400",
+      "minecraft:pale_garden": "2026-08-03 06:10:23 -0400"
     },
     "done": false
   },
@@ -8346,6 +8352,199 @@
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2026-08-02 05:28:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2026-08-03 04:21:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2026-08-03 04:21:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_chestplate_dyed": {
+    "criteria": {
+      "has_leather_chestplate": "2026-08-03 05:18:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-08-03 05:43:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2026-08-03 05:43:05 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-03 05:43:05 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2026-08-03 05:43:05 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/laying_hay_bale": {
+    "criteria": {
+      "has_planks": "2026-08-03 05:49:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/hay_wheelbarrow": {
+    "criteria": {
+      "has_planks": "2026-08-03 05:49:22 -0400"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/standing_hay_bale": {
+    "criteria": {
+      "has_planks": "2026-08-03 05:49:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2026-08-03 05:49:22 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-03 05:50:30 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2026-08-03 05:50:30 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2026-08-03 05:50:30 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/pale_oak": {
+    "criteria": {
+      "has_planks": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pale_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/pale_oak": {
+    "criteria": {
+      "has_wood": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400",
+      "has_the_recipe": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/pale_oak": {
+    "criteria": {
+      "has_planks": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_planks": {
+    "criteria": {
+      "has_log": "2026-08-03 06:10:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-08-03 06:10:21 -0400"
     },
     "done": true
   },
