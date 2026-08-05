@@ -1161,6 +1161,7 @@
       "minecraft:creeper": "2026-07-27 16:48:28 -0400",
       "minecraft:slime": "2026-07-28 22:03:46 -0400",
       "minecraft:evoker": "2026-08-02 19:27:16 -0400",
+      "minecraft:phantom": "2026-08-05 00:39:35 -0400",
       "minecraft:zombified_piglin": "2026-07-28 14:59:35 -0400",
       "minecraft:witch": "2026-07-27 18:48:22 -0400",
       "minecraft:wither_skeleton": "2026-07-29 01:52:38 -0400",
@@ -8183,6 +8184,60 @@
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2026-08-04 02:50:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2026-08-04 06:17:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2026-08-04 06:17:20 -0400"
+    },
+    "done": true
+  },
+  "bound:bound3item": {
+    "criteria": {
+      "requirement": "2026-08-04 07:14:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2026-08-04 09:08:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2026-08-04 09:08:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2026-08-04 09:08:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-08-04 09:08:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-08-04 09:08:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-08-04 09:08:59 -0400"
     },
     "done": true
   },

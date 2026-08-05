@@ -630,6 +630,7 @@
       "minecraft:enderman": "2026-08-02 23:20:16 -0400",
       "minecraft:spider": "2026-08-02 13:57:14 -0400",
       "minecraft:zombie": "2026-08-02 11:31:23 -0400",
+      "minecraft:creeper": "2026-08-04 07:33:00 -0400",
       "minecraft:zombie_villager": "2026-08-02 22:34:46 -0400"
     },
     "done": false
@@ -654,6 +655,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2026-08-04 07:31:01 -0400",
       "minecraft:beach": "2026-08-02 09:37:09 -0400",
       "minecraft:forest": "2026-08-03 04:44:57 -0400",
       "minecraft:mangrove_swamp": "2026-08-02 14:43:09 -0400",
@@ -688,6 +690,7 @@
       "potato": "2026-08-03 04:49:19 -0400",
       "sweet_berries": "2026-08-02 09:32:41 -0400",
       "cooked_beef": "2026-08-02 09:57:58 -0400",
+      "beef": "2026-08-04 07:31:51 -0400",
       "carrot": "2026-08-03 04:11:05 -0400"
     },
     "done": false
@@ -771,6 +774,7 @@
       "potato": "2026-08-03 03:36:59 -0400",
       "sweet_berries": "2026-08-02 09:43:42 -0400",
       "tomato": "2026-08-02 22:42:14 -0400",
+      "rice": "2026-08-04 06:04:13 -0400",
       "beetroot": "2026-08-03 03:45:55 -0400",
       "carrot": "2026-08-03 03:56:00 -0400"
     },
@@ -4790,6 +4794,288 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_yellow_dye": "2026-08-03 08:00:19 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "gofish:fishing/seaweed": {
+    "criteria": {
+      "fish": "2026-08-04 06:26:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2026-08-04 07:15:54 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2026-08-04 07:15:54 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2026-08-04 06:23:19 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/basket": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2026-08-04 06:37:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2026-08-04 06:23:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2026-08-04 06:37:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2026-08-04 06:27:05 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2026-08-04 06:36:40 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2026-08-04 06:04:13 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2026-08-04 06:36:31 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2026-08-04 06:36:31 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2026-08-04 07:15:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2026-08-04 06:23:19 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2026-08-04 06:36:31 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2026-08-04 06:36:40 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2026-08-04 06:00:51 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2026-08-04 06:41:52 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/apple_pie": {
+    "criteria": {
+      "has_pie_crust": "2026-08-04 07:14:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-08-04 06:37:56 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chocolate_pie": {
+    "criteria": {
+      "has_pie_crust": "2026-08-04 07:14:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2026-08-04 07:15:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2026-08-04 06:23:19 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2026-08-04 06:36:31 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2026-08-04 06:36:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2026-08-04 06:41:52 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2026-08-04 06:23:19 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "gofish:fishing/crate/iron_crate": {
+    "criteria": {
+      "fish": "2026-08-04 06:26:05 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/hanging_canvas_sign": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2026-08-04 07:15:54 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2026-08-04 06:00:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2026-08-04 06:27:05 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2026-08-04 06:36:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-08-04 06:27:05 -0400"
+    },
+    "done": true
+  },
+  "gofish:fishing/seaweed_eel": {
+    "criteria": {
+      "fish": "2026-08-04 06:25:25 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cheesecake": {
+    "criteria": {
+      "has_pie_crust": "2026-08-04 07:14:26 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2026-08-04 07:02:27 -0400"
     },
     "done": true
   },
