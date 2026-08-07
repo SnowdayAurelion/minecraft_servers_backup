@@ -700,6 +700,7 @@
       "minecraft:savanna_plateau": "2026-08-02 02:24:34 -0400",
       "minecraft:beach": "2026-06-16 00:21:38 -0400",
       "minecraft:dark_forest": "2026-06-20 23:12:38 -0400",
+      "minecraft:mangrove_swamp": "2026-08-06 02:02:19 -0400",
       "minecraft:sparse_jungle": "2026-07-29 23:19:18 -0400",
       "minecraft:river": "2026-06-16 00:14:58 -0400",
       "minecraft:lukewarm_ocean": "2026-06-16 00:23:39 -0400",
@@ -5978,6 +5979,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2026-08-03 20:14:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2026-08-06 02:30:09 -0400"
     },
     "done": true
   },
