@@ -675,6 +675,7 @@
       "minecraft:frozen_ocean": "2026-04-17 14:41:02 -0400",
       "minecraft:eroded_badlands": "2026-04-30 16:43:48 -0400",
       "minecraft:desert": "2026-04-30 16:37:42 -0400",
+      "minecraft:frozen_river": "2026-08-09 03:13:37 -0400",
       "minecraft:deep_frozen_ocean": "2026-04-17 14:44:09 -0400",
       "minecraft:ocean": "2026-04-17 14:54:46 -0400",
       "minecraft:jungle": "2026-04-17 15:51:34 -0400",
@@ -698,8 +699,10 @@
       "minecraft:river": "2026-04-17 14:38:38 -0400",
       "minecraft:lukewarm_ocean": "2026-04-17 14:55:51 -0400",
       "minecraft:snowy_plains": "2026-07-29 23:15:01 -0400",
+      "minecraft:dripstone_caves": "2026-08-09 03:24:42 -0400",
       "minecraft:frozen_peaks": "2026-08-02 19:46:08 -0400",
       "minecraft:old_growth_birch_forest": "2026-04-17 14:21:10 -0400",
+      "minecraft:deep_dark": "2026-08-09 03:08:03 -0400",
       "minecraft:grove": "2026-04-17 14:41:48 -0400",
       "minecraft:swamp": "2026-04-21 21:54:21 -0400",
       "minecraft:meadow": "2026-07-28 09:52:48 -0400",
@@ -8814,6 +8817,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2026-08-03 03:51:47 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2026-08-08 04:20:32 -0400"
     },
     "done": true
   },
