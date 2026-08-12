@@ -500,6 +500,7 @@
       "minecraft:spider": "2026-04-17 14:29:55 -0400",
       "minecraft:creeper": "2026-04-17 13:49:46 -0400",
       "minecraft:slime": "2026-04-17 16:17:27 -0400",
+      "minecraft:zombie_nautilus": "2026-08-11 08:01:55 -0400",
       "minecraft:phantom": "2026-04-26 18:34:13 -0400",
       "minecraft:zombified_piglin": "2026-08-01 08:19:43 -0400",
       "minecraft:witch": "2026-05-27 15:52:43 -0400",
@@ -2212,6 +2213,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2026-04-17 19:49:44 -0400",
+      "minecraft:turtle": "2026-08-11 08:02:45 -0400",
       "minecraft:sheep": "2026-05-29 00:27:02 -0400"
     },
     "done": false
