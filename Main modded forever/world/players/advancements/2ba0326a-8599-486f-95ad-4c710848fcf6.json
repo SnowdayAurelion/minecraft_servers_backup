@@ -63,6 +63,7 @@
       "minecraft:deep_dark": "2026-08-06 07:58:48 -0400",
       "minecraft:grove": "2026-07-28 07:54:48 -0400",
       "minecraft:swamp": "2026-07-28 20:46:45 -0400",
+      "minecraft:meadow": "2026-08-12 05:37:17 -0400",
       "minecraft:savanna": "2026-07-27 16:32:30 -0400",
       "minecraft:plains": "2026-07-27 19:09:24 -0400",
       "minecraft:jagged_peaks": "2026-08-05 23:39:42 -0400",
@@ -1172,6 +1173,7 @@
       "minecraft:zombified_piglin": "2026-07-28 14:59:35 -0400",
       "minecraft:witch": "2026-07-27 18:48:22 -0400",
       "minecraft:wither_skeleton": "2026-07-29 01:52:38 -0400",
+      "minecraft:husk": "2026-08-12 05:57:12 -0400",
       "minecraft:ender_dragon": "2026-07-31 21:45:52 -0400",
       "minecraft:shulker": "2026-07-31 21:54:31 -0400",
       "minecraft:cave_spider": "2026-07-27 16:45:07 -0400",
@@ -1274,7 +1276,8 @@
       "golden_carrot": "2026-08-01 07:58:09 -0400",
       "apple": "2026-08-01 00:33:27 -0400",
       "cooked_chicken": "2026-08-02 10:27:12 -0400",
-      "mushroom_stew": "2026-08-01 03:55:17 -0400"
+      "mushroom_stew": "2026-08-01 03:55:17 -0400",
+      "carrot": "2026-08-12 04:20:02 -0400"
     },
     "done": false
   },
@@ -5479,7 +5482,9 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2026-07-29 05:50:56 -0400",
-      "minecraft:horse": "2026-07-30 22:22:42 -0400"
+      "minecraft:chicken": "2026-08-12 22:48:13 -0400",
+      "minecraft:horse": "2026-07-30 22:22:42 -0400",
+      "minecraft:sheep": "2026-08-12 23:28:09 -0400"
     },
     "done": false
   },
@@ -8943,6 +8948,114 @@
   "farmersdelight:recipes/food/egg_sandwich": {
     "criteria": {
       "has_fried_egg": "2026-08-11 11:01:14 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2026-08-12 04:17:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-08-12 22:20:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_magenta_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-08-12 22:20:34 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-08-12 22:28:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-08-12 22:20:15 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lamps_ceilings": {
+    "criteria": {
+      "has_the_recipe": "2026-08-12 23:42:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-08-12 22:20:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_candle": {
+    "criteria": {
+      "has_magenta_dye": "2026-08-12 22:20:34 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-08-12 22:28:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/magenta_bundle": {
+    "criteria": {
+      "has_magenta_dye": "2026-08-12 22:20:34 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2026-08-12 22:28:31 -0400"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/glowstone_slab": {
+    "criteria": {
+      "has_wood": "2026-08-12 23:42:48 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2026-08-12 22:28:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_magenta_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-08-12 22:20:34 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2026-08-12 22:28:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-08-12 23:42:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_magenta_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-08-12 22:20:34 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2026-08-12 22:28:31 -0400"
     },
     "done": true
   },
