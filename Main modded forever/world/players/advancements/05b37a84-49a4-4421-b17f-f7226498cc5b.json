@@ -701,6 +701,7 @@
       "minecraft:river": "2026-04-17 14:38:38 -0400",
       "minecraft:lukewarm_ocean": "2026-04-17 14:55:51 -0400",
       "minecraft:snowy_plains": "2026-07-29 23:15:01 -0400",
+      "minecraft:stony_shore": "2026-08-13 21:01:15 -0400",
       "minecraft:dripstone_caves": "2026-08-09 03:24:42 -0400",
       "minecraft:frozen_peaks": "2026-08-02 19:46:08 -0400",
       "minecraft:old_growth_birch_forest": "2026-04-17 14:21:10 -0400",
@@ -1230,7 +1231,8 @@
     "criteria": {
       "minecraft:cow": "2026-04-18 09:43:23 -0400",
       "minecraft:chicken": "2026-04-21 22:46:33 -0400",
-      "minecraft:wolf": "2026-04-17 14:23:09 -0400"
+      "minecraft:wolf": "2026-04-17 14:23:09 -0400",
+      "minecraft:turtle": "2026-08-13 06:44:23 -0400"
     },
     "done": false
   },
@@ -4237,6 +4239,7 @@
       "chorus_flower": "2026-08-01 22:34:54 -0400",
       "cabbage": "2026-08-03 03:29:18 -0400",
       "sugar_cane": "2026-04-23 21:29:33 -0400",
+      "glow_berries": "2026-08-15 05:04:11 -0400",
       "wheat": "2026-04-23 22:57:27 -0400",
       "kelp": "2026-04-23 20:55:34 -0400",
       "cocoa": "2026-08-03 03:44:12 -0400"
@@ -8846,12 +8849,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2026-08-12 08:50:43 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2026-08-12 08:42:08 -0400"
@@ -8861,6 +8858,150 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2026-08-12 08:42:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-08-12 08:50:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-08-13 06:37:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2026-08-13 06:43:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-08-13 19:54:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2026-08-13 19:54:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2026-08-13 21:01:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-08-13 21:01:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2026-08-13 21:01:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-08-13 21:01:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-08-13 21:02:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2026-08-13 21:02:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-08-13 21:02:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2026-08-13 21:02:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2026-08-13 21:03:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-08-13 21:07:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-08-13 21:07:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2026-08-13 21:07:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2026-08-13 21:07:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_shelf": {
+    "criteria": {
+      "has_stripped_jungle_log": "2026-08-15 04:55:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-08-15 04:55:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2026-08-15 04:55:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2026-08-15 05:05:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2026-08-15 05:05:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bordure_indented_banner_pattern": {
+    "criteria": {
+      "has_vines": "2026-08-15 05:05:09 -0400"
     },
     "done": true
   },
