@@ -569,6 +569,7 @@
       "minecraft:spider": "2026-04-17 14:32:49 -0400",
       "minecraft:piglin_brute": "2026-05-08 11:46:03 -0400",
       "minecraft:creeper": "2026-04-17 17:24:48 -0400",
+      "minecraft:wither": "2026-08-17 09:29:33 -0400",
       "minecraft:slime": "2026-04-19 18:07:18 -0400",
       "minecraft:zombie_nautilus": "2026-06-23 04:03:58 -0400",
       "minecraft:phantom": "2026-04-18 22:17:42 -0400",
@@ -9002,6 +9003,84 @@
   "minecraft:recipes/misc/bordure_indented_banner_pattern": {
     "criteria": {
       "has_vines": "2026-08-15 05:05:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2026-08-17 01:11:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2026-08-17 01:26:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2026-08-17 06:45:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2026-08-17 06:48:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2026-08-17 06:48:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2026-08-17 07:37:00 -0400"
+    },
+    "done": true
+  },
+  "gofish:fishing/root": {
+    "criteria": {
+      "fishing_rod": "2026-08-17 08:02:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-08-17 09:28:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2026-08-17 09:28:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2026-08-17 09:28:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2026-08-17 09:29:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2026-08-17 09:57:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2026-08-17 09:57:57 -0400"
     },
     "done": true
   },

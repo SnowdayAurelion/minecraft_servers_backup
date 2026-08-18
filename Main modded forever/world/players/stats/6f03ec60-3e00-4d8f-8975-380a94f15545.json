@@ -1,5 +1,56 @@
 {
   "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 32,
+      "minecraft:time_since_rest": 8035,
+      "minecraft:walk_one_cm": 859076,
+      "minecraft:leave_game": 4,
+      "minecraft:walk_under_water_one_cm": 206,
+      "minecraft:damage_taken": 805,
+      "minecraft:mob_kills": 10,
+      "minecraft:boat_one_cm": 254372,
+      "minecraft:play_time": 203647,
+      "minecraft:damage_dealt": 2215,
+      "minecraft:jump": 1339,
+      "minecraft:time_since_death": 203647,
+      "minecraft:sprint_one_cm": 317880,
+      "minecraft:open_chest": 9,
+      "minecraft:sleep_in_bed": 15,
+      "minecraft:fall_one_cm": 24562,
+      "minecraft:total_world_time": 203647,
+      "minecraft:swim_one_cm": 977,
+      "minecraft:fly_one_cm": 195876,
+      "minecraft:walk_on_water_one_cm": 2579,
+      "minecraft:crouch_one_cm": 53225,
+      "minecraft:sneak_time": 14913,
+      "minecraft:climb_one_cm": 6756
+    },
+    "minecraft:crafted": {
+      "minecraft:flint_and_steel": 1,
+      "minecraft:ladder": 12,
+      "minecraft:black_bed": 1,
+      "minecraft:iron_ingot": 91,
+      "minecraft:lantern": 16,
+      "minecraft:spruce_door": 6,
+      "minecraft:crafting_table": 5,
+      "minecraft:torch": 48,
+      "minecraft:stick": 4,
+      "minecraft:spruce_fence": 33,
+      "minecraft:spruce_sign": 3,
+      "minecraft:chest": 5,
+      "minecraft:spruce_planks": 1340,
+      "minecraft:iron_pickaxe": 4,
+      "minecraft:iron_bars": 64,
+      "minecraft:shears": 1,
+      "minecraft:iron_shovel": 1,
+      "minecraft:iron_nugget": 162,
+      "minecraft:iron_axe": 4
+    },
+    "minecraft:broken": {
+      "minecraft:iron_axe": 3,
+      "minecraft:golden_axe": 1,
+      "minecraft:iron_pickaxe": 4
+    },
     "minecraft:used": {
       "minecraft:iron_axe": 329,
       "minecraft:spruce_fence": 50,
@@ -64,62 +115,6 @@
       "minecraft:ladder": 6,
       "minecraft:spruce_door": 2
     },
-    "minecraft:broken": {
-      "minecraft:iron_axe": 3,
-      "minecraft:golden_axe": 1,
-      "minecraft:iron_pickaxe": 4
-    },
-    "minecraft:crafted": {
-      "minecraft:flint_and_steel": 1,
-      "minecraft:ladder": 12,
-      "minecraft:black_bed": 1,
-      "minecraft:iron_ingot": 91,
-      "minecraft:lantern": 16,
-      "minecraft:spruce_door": 6,
-      "minecraft:crafting_table": 5,
-      "minecraft:torch": 48,
-      "minecraft:stick": 4,
-      "minecraft:spruce_fence": 33,
-      "minecraft:spruce_sign": 3,
-      "minecraft:chest": 5,
-      "minecraft:spruce_planks": 1340,
-      "minecraft:iron_pickaxe": 4,
-      "minecraft:iron_bars": 64,
-      "minecraft:shears": 1,
-      "minecraft:iron_shovel": 1,
-      "minecraft:iron_nugget": 162,
-      "minecraft:iron_axe": 4
-    },
-    "minecraft:custom": {
-      "minecraft:interact_with_crafting_table": 32,
-      "minecraft:time_since_rest": 6465,
-      "minecraft:walk_one_cm": 849819,
-      "minecraft:leave_game": 3,
-      "minecraft:walk_under_water_one_cm": 206,
-      "minecraft:damage_taken": 790,
-      "minecraft:mob_kills": 10,
-      "minecraft:boat_one_cm": 254372,
-      "minecraft:play_time": 202077,
-      "minecraft:damage_dealt": 2215,
-      "minecraft:jump": 1323,
-      "minecraft:time_since_death": 202077,
-      "minecraft:sprint_one_cm": 314185,
-      "minecraft:open_chest": 9,
-      "minecraft:sleep_in_bed": 15,
-      "minecraft:fall_one_cm": 24562,
-      "minecraft:total_world_time": 202077,
-      "minecraft:swim_one_cm": 977,
-      "minecraft:fly_one_cm": 192820,
-      "minecraft:walk_on_water_one_cm": 2579,
-      "minecraft:crouch_one_cm": 53225,
-      "minecraft:sneak_time": 14913,
-      "minecraft:climb_one_cm": 6109
-    },
-    "minecraft:killed": {
-      "minecraft:zombie": 4,
-      "minecraft:skeleton": 5,
-      "minecraft:spider": 1
-    },
     "minecraft:mined": {
       "minecraft:black_bed": 1,
       "minecraft:deepslate_coal_ore": 2,
@@ -144,6 +139,11 @@
       "minecraft:coarse_dirt": 16,
       "minecraft:iron_bars": 3,
       "minecraft:stone": 28
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 4,
+      "minecraft:skeleton": 5,
+      "minecraft:spider": 1
     }
   },
   "DataVersion": 4790
