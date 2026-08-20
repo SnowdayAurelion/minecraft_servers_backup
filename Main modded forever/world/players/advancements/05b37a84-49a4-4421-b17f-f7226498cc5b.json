@@ -571,6 +571,7 @@
       "minecraft:creeper": "2026-04-17 17:24:48 -0400",
       "minecraft:wither": "2026-08-17 09:29:33 -0400",
       "minecraft:slime": "2026-04-19 18:07:18 -0400",
+      "minecraft:evoker": "2026-08-19 16:49:03 -0400",
       "minecraft:zombie_nautilus": "2026-06-23 04:03:58 -0400",
       "minecraft:phantom": "2026-04-18 22:17:42 -0400",
       "minecraft:zombified_piglin": "2026-04-24 00:20:09 -0400",
@@ -9081,6 +9082,132 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2026-08-17 09:57:57 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bamboo": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bamboo_mosaic": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bamboo_planks": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2026-08-19 08:40:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2026-08-19 13:49:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-08-19 13:49:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-08-19 13:49:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-08-19 14:12:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_shelf": {
+    "criteria": {
+      "has_stripped_oak_log": "2026-08-19 14:12:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2026-08-19 14:12:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2026-08-19 16:50:56 -0400"
     },
     "done": true
   },
