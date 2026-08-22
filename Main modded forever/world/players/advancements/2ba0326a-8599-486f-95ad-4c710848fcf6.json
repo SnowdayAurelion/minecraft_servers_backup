@@ -9407,21 +9407,21 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/pale_oak/pale_oak_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2026-08-21 01:10:16 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2026-08-21 00:31:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2026-08-21 00:31:30 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2026-08-21 01:10:16 -0400"
     },
     "done": true
   },
@@ -9437,51 +9437,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_oak_fence": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2026-08-21 01:10:16 -0400"
     },
     "done": true
   },
-  "mcwroofs:recipes/pale_oak_planks": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_pale_oak_bridge": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
-    "criteria": {
-      "has_open_eyeblossom": "2026-08-21 01:13:50 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/pale_oak_rail_bridge": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_barrel_trapdoor": {
     "criteria": {
       "has_logs": "2026-08-21 01:10:16 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
-    "criteria": {
-      "has_closed_eyeblossom": "2026-08-21 01:10:35 -0400"
     },
     "done": true
   },
@@ -9497,12 +9461,6 @@
     },
     "done": true
   },
-  "mcwpaths:recipes/pale_oak": {
-    "criteria": {
-      "has_wood": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2026-08-21 01:10:16 -0400"
@@ -9512,24 +9470,6 @@
   "mcwtrpdoors:recipes/pale_oak/pale_oak_cottage_trapdoor": {
     "criteria": {
       "has_logs": "2026-08-21 01:10:16 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_slab": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_door": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_button": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
     },
     "done": true
   },
@@ -9545,39 +9485,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/pale_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2026-08-21 01:10:16 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
-    "criteria": {
-      "has_closed_eyeblossom": "2026-08-21 01:10:35 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2026-08-21 00:31:30 -0400"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/pale_oak_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
-    "criteria": {
-      "has_open_eyeblossom": "2026-08-21 01:13:50 -0400"
     },
     "done": true
   },
@@ -9585,12 +9495,6 @@
     "criteria": {
       "has_logs": "2026-08-21 01:10:16 -0400",
       "has_the_recipe": "2026-08-21 01:10:16 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_stairs": {
-    "criteria": {
-      "has_planks": "2026-08-21 01:16:37 -0400"
     },
     "done": true
   },
@@ -9618,6 +9522,108 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-08-21 01:10:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-08-21 01:10:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-08-21 01:10:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-08-21 01:13:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-08-21 01:13:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/pale_oak_planks": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_pale_oak_bridge": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pale_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/pale_oak": {
+    "criteria": {
+      "has_wood": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pale_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-08-21 01:16:37 -0400"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/pale_oak/pale_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2026-08-21 01:16:37 -0400"
@@ -9633,12 +9639,6 @@
   "minecraft:recipes/decorations/pale_oak_sign": {
     "criteria": {
       "has_planks": "2026-08-21 01:16:37 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_wood": {
-    "criteria": {
-      "has_log": "2026-08-21 01:10:16 -0400"
     },
     "done": true
   },
