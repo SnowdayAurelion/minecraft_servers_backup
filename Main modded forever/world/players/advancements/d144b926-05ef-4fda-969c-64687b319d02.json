@@ -9281,5 +9281,95 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/pale_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_fence": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/pale_oak_planks": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_pale_oak_bridge": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pale_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/pale_oak": {
+    "criteria": {
+      "has_wood": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/pale_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/pale_oak/pale_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 4790
 }
