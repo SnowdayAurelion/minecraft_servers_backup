@@ -2223,6 +2223,7 @@
     "criteria": {
       "minecraft:cow": "2026-04-17 19:49:44 -0400",
       "minecraft:turtle": "2026-08-11 08:02:45 -0400",
+      "minecraft:frog": "2026-09-01 21:30:01 -0400",
       "minecraft:sheep": "2026-05-29 00:27:02 -0400"
     },
     "done": false
@@ -9368,6 +9369,36 @@
   "minecraft:recipes/decorations/pale_oak_sign": {
     "criteria": {
       "has_planks": "2026-08-30 22:11:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_helmet_dyed": {
+    "criteria": {
+      "has_leather_helmet": "2026-09-01 20:11:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tadpole_in_a_bucket": {
+    "criteria": {
+      "tadpole_bucket": "2026-09-01 22:15:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-09-01 22:10:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-09-01 22:10:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2026-09-01 22:05:20 -0400"
     },
     "done": true
   },
