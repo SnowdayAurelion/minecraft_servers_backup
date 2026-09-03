@@ -9378,9 +9378,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tadpole_in_a_bucket": {
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
-      "tadpole_bucket": "2026-09-01 22:15:38 -0400"
+      "has_mangrove_roots": "2026-09-01 22:05:20 -0400"
     },
     "done": true
   },
@@ -9396,9 +9396,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+  "minecraft:husbandry/tadpole_in_a_bucket": {
     "criteria": {
-      "has_mangrove_roots": "2026-09-01 22:05:20 -0400"
+      "tadpole_bucket": "2026-09-01 22:15:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-09-02 08:35:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2026-09-02 08:35:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-09-02 09:28:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2026-09-02 09:28:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map_cloning": {
+    "criteria": {
+      "has_filled_map": "2026-09-02 09:29:01 -0400"
     },
     "done": true
   },
