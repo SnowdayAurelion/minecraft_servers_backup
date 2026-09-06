@@ -2204,15 +2204,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "has_stone": "2026-09-05 02:46:35 -0400"
+      "stone_pickaxe": "2026-09-05 02:09:19 -0400"
     },
     "done": true
   },
   "farmersdelight:recipes/food/egg_sandwich": {
     "criteria": {
       "has_fried_egg": "2026-09-05 02:29:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2026-09-05 02:46:35 -0400"
     },
     "done": true
   },
@@ -2327,12 +2333,6 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2026-09-05 02:46:35 -0400"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2026-09-05 02:09:19 -0400"
     },
     "done": true
   },

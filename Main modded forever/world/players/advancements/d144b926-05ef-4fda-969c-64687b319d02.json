@@ -9432,6 +9432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-09-05 01:39:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2026-09-05 01:45:51 -0400"
@@ -9441,12 +9447,6 @@
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2026-09-05 01:45:51 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2026-09-05 01:47:08 -0400"
     },
     "done": true
   },
@@ -9480,9 +9480,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
-      "has_glass": "2026-09-05 01:39:57 -0400"
+      "has_glass": "2026-09-05 01:47:08 -0400"
     },
     "done": true
   },
