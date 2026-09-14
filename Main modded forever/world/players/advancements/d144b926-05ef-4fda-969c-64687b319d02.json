@@ -568,7 +568,8 @@
       "spider_eye": "2026-06-18 02:20:09 -0400",
       "cooked_chicken": "2026-04-17 15:14:48 -0400",
       "enchanted_golden_apple": "2026-08-28 15:25:10 -0400",
-      "mushroom_stew": "2026-08-01 00:29:35 -0400"
+      "mushroom_stew": "2026-08-01 00:29:35 -0400",
+      "carrot": "2026-09-13 17:02:52 -0400"
     },
     "done": false
   },
@@ -9483,6 +9484,24 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2026-09-05 01:47:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_shelf": {
+    "criteria": {
+      "has_stripped_pale_oak_log": "2026-09-13 17:57:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-09-13 17:57:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-09-13 17:57:26 -0400"
     },
     "done": true
   },
