@@ -5743,5 +5743,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2026-10-31 23:17:48 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
