@@ -752,6 +752,7 @@
       "minecraft:spider": "2025-11-04 19:21:23 -0500",
       "minecraft:zombie": "2025-11-04 20:30:11 -0500",
       "minecraft:creeper": "2025-11-03 19:27:25 -0500",
+      "minecraft:drowned": "2026-11-01 20:32:13 -0500",
       "minecraft:bogged": "2025-12-30 00:38:36 -0500",
       "minecraft:ghast": "2025-12-30 00:15:39 -0500",
       "minecraft:slime": "2025-11-15 10:22:19 -0500"
@@ -5746,6 +5747,30 @@
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2026-10-31 23:17:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2026-11-01 20:36:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2026-11-01 20:36:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2026-11-01 20:36:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_red_sandstone": "2026-11-01 20:36:37 -0500"
     },
     "done": true
   },
