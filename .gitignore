@@ -1,18 +1,38 @@
-# Ignore massive log files
+# ==========================================
+# Logs and Crash Reports (unnecessary bloat)
+# ==========================================
 *.log
+*.log.gz
 logs/
-
-# Ignore temporary session locks
-session.lock
-
-# Ignore crash reports
 crash-reports/
-# Ignore server and plugin JARs
-*.jar
 
-# Fabric & Modded specific
+# ==========================================
+# Runtime locks & temporary session files
+# ==========================================
+session.lock
+*.lock
+*.lck
+
+# ==========================================
+# Server and runtime JARs (Mojang/runtime binaries)
+# ==========================================
+*.jar
+# Exceptions: Keep mod jars and Fabric launcher bootstrap
+!**/mods/*.jar
+!**/mods/**/*.jar
+!Main modded forever/fabric-server-mc.26.1.2-loader.0.19.2-launcher.1.1.1.jar
+
+# ==========================================
+# Mod loader / cache directories
+# ==========================================
 libraries/
 .fabric/
 cache/
+.mixin.out/
+**/config/veinminer/update/
+
+# ==========================================
+# World-specific caches (Voxy LevelDB LOD cache)
+# ==========================================
 **/world/voxy/
 **/world/voxyserver/
