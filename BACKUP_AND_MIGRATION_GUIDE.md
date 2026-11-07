@@ -9,7 +9,7 @@ This document is a complete reference for managing, backing up, and migrating yo
 ### Active Servers
 | Server | Type & Minecraft Version | Server Port | Other Ports | Startup Method |
 | :--- | :--- | :--- | :--- | :--- |
-| **`Erika`** | Vanilla 1.21.10 | **`25565` (TCP)** | — | `java -Xms1G -Xmx2G -jar server.jar nogui` |
+| **`Erika`** | Vanilla 1.21.10 | **`25565` (TCP)** | — | `java -Xms2G -Xmx3G -jar server.jar nogui` |
 | **`Main modded forever`** | Fabric Loader 0.19.2 (MC 26.1.2) | **`25566` (TCP)** | **`24454` (UDP)** *(Voice Chat)* | `java -Xms3G -Xmx4G -jar fabric-server-mc.26.1.2-loader.0.19.2-launcher.1.1.1.jar nogui` |
 | **`funland`** | Vanilla 1.7.2 *(Archive)* | **`25565` (TCP)** | — | `java -jar minecraft_server.1.7.2.jar nogui` |
 

@@ -6,7 +6,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # --- START SERVER: ERIKA ---
 # Creating a session named 'erika'
 tmux new-session -d -s erika
-tmux send-keys -t erika "cd '$SCRIPT_DIR/Erika' && java -Xms1G -Xmx2G -jar server.jar nogui" C-m
+tmux send-keys -t erika "cd '$SCRIPT_DIR/Erika' && java -Xms2G -Xmx3G -jar server.jar nogui" C-m
 
 # --- START SERVER: MAIN MODDED FOREVER ---
 # Creating a session named 'forever'
