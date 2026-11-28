@@ -4941,5 +4941,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_shelf": {
+    "criteria": {
+      "has_stripped_spruce_log": "2026-11-27 23:40:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-11-27 23:40:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2026-11-27 23:40:37 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 4556
 }
